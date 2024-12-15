@@ -1,1 +1,11 @@
-.venv
+# Ignore raw_data folder and its contents
+raw_data/
+# Ignore the virtual environment folder
+venv/
+
+# Ignore Python bytecode files
+*.pyc
+__pycache__/
+
+# Ignore system files
+.DS_Store
