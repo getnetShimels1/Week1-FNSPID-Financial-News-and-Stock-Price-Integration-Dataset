@@ -3,4 +3,7 @@ matplotlib
 seaborn
 nltk
 textblob
-seaborn
+vaderSentiment
+nltk
+scikit-learn
+wordcloud
