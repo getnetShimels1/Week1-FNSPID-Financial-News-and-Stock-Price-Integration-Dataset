@@ -7,3 +7,6 @@ vaderSentiment
 nltk
 scikit-learn
 wordcloud
+TA-Lib
+pynance
+pandas_ta
